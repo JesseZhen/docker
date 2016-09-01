@@ -10,7 +10,7 @@
     "type": "DOCKER",
     "volumes": [],
     "docker": {
-      "image": "lane/nodejs_app:latest",
+      "image": "jessezhen/nodejs_app",
       "network": "BRIDGE",
       "portMappings": [
         {
